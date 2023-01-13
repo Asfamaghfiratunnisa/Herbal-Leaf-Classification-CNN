@@ -40,7 +40,7 @@ Data set ini menggunakan beberapa plungin. Interuksi cara menggunakan data set i
 
 | Plugin | README |
 | ------ | ------ |
-| GitHub | [https://github.com/Asfamaghfiratunnisa/Herbal-Leaf-Classification-CNN][PlGh] |
-| Google Drive | [https://github.com/Asfamaghfiratunnisa/Dataset-Daun-Jambu-Biji-dan-Daun-Belimbing-Wuluh_126-138/blob/main/README.md][PlGd] |
+| GitHub | [https://github.com/Asfamaghfiratunnisa/Herbal-Leaf-Classification-CNN] |
+| Google Drive | [https://github.com/Asfamaghfiratunnisa/Dataset-Daun-Jambu-Biji-dan-Daun-Belimbing-Wuluh_126-138/blob/main/README.md] |
 
  
